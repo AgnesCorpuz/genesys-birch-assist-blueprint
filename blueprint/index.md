@@ -7,7 +7,7 @@ For more information and how to setup Birch Assist for your organization within 
 # Architecture Overview
 The following illustration shows the integration overview between the Genesys Cloud and BirchAI:
 
-![Birch Assist Integration](images/genesys_birchai_workflow_1.png "Birch Assist Integration Overview")
+![Birch Assist Integration](images/genesys_birchai_workflow.png "Birch Assist Integration Overview")
 
 
 # Solution components
