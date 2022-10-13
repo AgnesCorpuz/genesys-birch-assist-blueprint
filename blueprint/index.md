@@ -62,7 +62,7 @@ The Birch AI integration has the following steps:
 
 ## Contact Birch
 1. Share the Client ID and Client Secret for the OAuth Client with the Birch Team.
-2. Once AudioHook is setup, we will provide you with a Connection URI to configure AudioHook to send live audio to Birch.
+2. Once AudioHook is setup, we will provide you with a Connection URI to configure AudioHook to start streaming live audio to Birch.
 
 
 
