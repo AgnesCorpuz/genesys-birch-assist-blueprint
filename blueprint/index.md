@@ -17,9 +17,6 @@ A suite of Genesys cloud services for enterprise-grade communications, collabora
 ## Genesys AppFoundry
 The Genesys app marketplace for solutions that run on the Genesys Cloud platform. You download the integration used in this solution from the Genesys AppFoundry.
 
-## Interaction Widget integration
-The Genesys Cloud integration that enables web apps to be embedded in an iframe within Genesys Cloud. The iframe only appears on specified interaction types and to specified agents. For this solution, Genesys Cloud uses the Interaction Widget integration
-
 ## BirchAI Account
 You would need an active BirchAI account.
 
