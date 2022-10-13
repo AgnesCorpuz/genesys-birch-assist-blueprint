@@ -35,12 +35,12 @@ Experience using the Genesys Cloud OAuth Process for third party apps
 
 The Birch AI integration has the following steps:
 
-* Create a custom role for Birch Agent
+* Create a custom role for Birch Assist
 * Create a Client Credentials OAuth Client for Birch in the Genesys Cloud
 * Setup AudioHook integration for your organization
-* Contact Birch to link AudioHook to Birch Agent
+* Contact Birch to link AudioHook to Birch Assist
 
-## Create a custom role for Birch Agent
+## Create a custom role for Birch Assist
 1. Login to your Genesys Cloud organization and [create a new role](https://help.mypurecloud.com/articles/add-roles/) with the following permissions:
 
     * Analytics  Agent Conversation Detail  View
