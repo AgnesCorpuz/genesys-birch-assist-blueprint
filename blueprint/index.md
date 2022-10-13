@@ -1,4 +1,4 @@
-# BirchAssist
+# Birch Assist
 
 BirchAI introduces Birch Assist to help automate the complex after-call-work using our own state-of-the-art AI tools. We offer variety of options including **Live Call Analytics** - Task Tracking, Sentiment Tracking, Fields Extraction, Pacing guidance among others and **After Call Work** that involves summary, call reason, call classification. 
 
