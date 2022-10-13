@@ -21,7 +21,7 @@ The Genesys app marketplace for solutions that run on the Genesys Cloud platform
 The Genesys Cloud integration that enables web apps to be embedded in an iframe within Genesys Cloud. The iframe only appears on specified interaction types and to specified agents. For this solution, Genesys Cloud uses the Interaction Widget integration
 
 ## BirchAI Account
-You would need a active BirchAI account.
+You would need an active BirchAI account.
 
 ## AudioHook integration
 For the live call streams - audio hook integration is required. 
