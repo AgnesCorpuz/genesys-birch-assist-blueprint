@@ -31,4 +31,39 @@ Administrator-level knowledge of Genesys Cloud
 Experience using the Genesys Cloud OAuth Process for third party apps
 
 
-For the detailed steps to setup, Please contact us here - demo@birch.ai
+# Deployment Steps
+
+The Birch AI integration has the following steps:
+
+* Create a custom role for Birch Agent
+* Create a Client Credentials OAuth Client for Birch in the Genesys Cloud
+* Setup AudioHook integration for your organization
+* Contact Birch to link AudioHook to Birch Agent
+
+## Create a custom role for Birch Agent
+1. Login to your Genesys Cloud organization and [create a new role](https://help.mypurecloud.com/articles/add-roles/) with the following permissions:
+
+    * Analytics  Agent Conversation Detail  View
+    * Analytics  Conversation Detail  View
+    * Authorization  Role  View
+    * OAuth  Client  View
+    * Integrations  Integration  Edit
+
+2. Assign the role to yourself
+
+## Create a Client Credentials OAuth Client
+1. Login to your Genesys Cloud organization and [create a Client Credentials OAuth Client](https://help.mypurecloud.com/articles/create-an-oauth-client/)
+2. Select Client Credentials in the Grant Types and click the Roles tab
+3. Assign the custom role created above to the OAuth Client and save
+4. Note the Client ID and the Client Secret
+
+## Setup the AudioHook Integration
+1. Setup the AudioHook integration for your Genesys Cloud organization (skip if you already have AudioHook setup)
+
+## Contact Birch
+1. Share the Client ID and Client Secret for the OAuth Client with the Birch Team.
+2. Once AudioHook is setup, we will provide you with a Connection URI to configure AudioHook to send live audio to Birch.
+
+
+
+For any questions regarding the setup process, please contact us here - demo@birch.ai
